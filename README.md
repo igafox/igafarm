@@ -2,7 +2,7 @@
 
 # igafarm!
 
-[Uploading rice.jpg…]()
+![rice](https://user-images.githubusercontent.com/49146536/141404985-1e421800-2a23-4d82-a895-5f231902dac5.jpg)
 
 米卸屋イガファーム
 
